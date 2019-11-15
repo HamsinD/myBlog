@@ -1,2 +1,3 @@
 # myBlog
-Blog by vuePress
+
+https://hamsind.github.io/myBlog/
